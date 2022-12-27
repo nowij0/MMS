@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/*구글 웹 폰트 적용*/
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@700&display=swap');
+.font{
+		font-family: 'IBM Plex Sans KR', sans-serif;
+		color: #000000;
+		margin-top:30px; 
+		margin-bottom:30px; 
+	}
